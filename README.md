@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dzavi84
+- 👋 Hi, I’m Milan Vidancovic
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on project. 
