@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Milan Vidanovic
 - 👀 I’m interested in web development. 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning TypeScript.
 - 💞️ I’m looking to collaborate on project. 
 - 📫 How to reach me: milanvidanovic@yahoo.com
 
